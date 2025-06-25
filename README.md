@@ -1,4 +1,9 @@
 # ConsoleATM
+ <div align="left">
+	
+  ![Repo Views](https://visitor-badge.laobi.icu/badge?page_id=SpencerVJones/ConsoleATM)
+</div>
+
 Program that simulates basic ATM functionalities such as depositing money, withdrawing money, and checking account balance. 
 
 ## Features
